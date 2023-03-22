@@ -1,0 +1,61 @@
+.App {
+  background-color: burlywood;
+  height: 100vh;
+  width: 100%;
+  position: absolute;
+  font-size: 0.8rem;
+}
+
+.input-container {
+  text-align: center;
+  height: 50vh;
+  width: 100vh;
+  background: linear-gradient(
+    to right,
+    rgb(10, 75, 66),
+    rgb(136, 219, 20),
+    rgb(148, 201, 62),
+    rgb(220, 172, 60)
+  );
+  margin: 5rem auto;
+  position: relative;
+  box-shadow: 0 5px 5px rgba(0.2, 0.2, 0, 0.2);
+}
+.todo-item {
+  display: flex;
+  position: relative;
+  margin-bottom: 3rem;
+  margin-top: 4rem;
+  margin-left: 15rem;
+  font-size: 1rem;
+  align-items: center;
+}
+.check {
+  margin-left: -3rem;
+  position: absolute;
+  margin-top: 1rem;
+}
+.input {
+  position: relative;
+  margin-top: 2rem;
+  margin-left: 1rem;
+}
+input {
+  font-size: 2rem;
+  align-items: center;
+}
+button {
+  position: relative;
+  margin-left: 1rem;
+  width: 20%;
+  font-weight: 500;
+  padding: 0.8rem;
+  border-radius: 10%;
+  background-color: rgb(226, 205, 43);
+}
+.done {
+  text-decoration: line-through;
+}
+.delete {
+  background-color: rgb(226, 125, 43);
+}
