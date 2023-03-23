@@ -26,7 +26,7 @@ You can reach through the following adressess https://github.com/rfdawodu , rfda
 on Linkdn https://www.linkedin.com/in/rashidat-funmilayo-dawodu-0aa2bbb2/
 
 # Additional Info
-![Screen Shot 2023-03-23 at 2 41 17 PM](https://user-images.githubusercontent.com/103187041/227222126-57f9ad8e-5b35-4b84-95ee-0cdd2928d49a.png)
+(https://user-images.githubusercontent.com/103187041/227222126-57f9ad8e-5b35-4b84-95ee-0cdd2928d49a.png)
 
 This project is not meant for production. Its for learning purpose only
 
